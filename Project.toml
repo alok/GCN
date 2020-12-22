@@ -1,0 +1,7 @@
+name = "GCN"
+uuid = "e3d70df8-7fa0-4f46-be88-7371ad95dfd7"
+authors = ["Alok Singh <alokbeniwal@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
